@@ -6,7 +6,7 @@
 - 👨🏻‍💻 I'm now an undergraduate student at Shanghai Jiao Tong University.
 - 🤔 My current research interests lie in graph combinatorial optimization problems.
 - ✉️ Contact me via heatingma@sjtu.edu.cn.
-- 💁🏻‍♂️ Know me more from [https://heatingma.cn](https://heatingma.cn/).
+- 💁🏻‍♂️ Know me more from [https://heatingma.github.io/).
 
 ## &#x1f4c8; GitHub Stats
 

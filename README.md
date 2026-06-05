@@ -1,16 +1,18 @@
 ## Hi there 👋
+![status](https://img.shields.io/badge/status-up-brightgreen) 
+![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey)
+![](https://img.shields.io/badge/Email-heatingma@sjtu.edu.cn-blue)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=heatingma.heatingma)
+![GitHub followers](https://img.shields.io/github/followers/heatingma?label=Follow&style=social)
 
-<!--
-**heatingma/heatingma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Jiale Ma** (麻家乐), currently a first-year PHD student with [Thinklab-SJTU](https://thinklab.sjtu.edu.cn), School of Artificial Intelligence, Shanghai Jiao Tong University (上海交通大学人工智能学院). I achieved the Bachelor degree from School of Computer Science at SJTU (上海交通大学计算机学院), and transitioned directly to the current PhD program. My research interests lie in machine learning, especially deep generative models and combinatorial optimization on graphs. Know me more from [**https://heatingma.github.io**](https://heatingma.github.io/).
 
-Here are some ideas to get you started:
+## &#x1f4c8; GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/heatingma/heatingma">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heatingma&theme=github_dark" alt="heatingma's Top Languages" height="150"/>
+</a>
+
+<a href="https://github.com/heatingma/heatingma">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=heatingma&theme=github_dark" alt="heatingma's GitHub Stats" height="150"/>
+</a>

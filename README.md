@@ -5,7 +5,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=heatingma.heatingma)
 ![GitHub followers](https://img.shields.io/github/followers/heatingma?label=Follow&style=social)
 
-I'm **Jiale Ma** (麻家乐), currently a first-year PHD student with [Thinklab-SJTU](https://thinklab.sjtu.edu.cn), School of Artificial Intelligence, Shanghai Jiao Tong University (上海交通大学人工智能学院). I achieved the Bachelor degree from School of Computer Science at SJTU (上海交通大学计算机学院), and transitioned directly to the current PhD program. My research interests lie in machine learning, especially deep generative models and combinatorial optimization on graphs. Know me more from [**https://heatingma.github.io**](https://heatingma.github.io/).
+I'm **Jiale Ma** (麻家乐), currently a first-year PHD student with [Thinklab-SJTU](https://thinklab.sjtu.edu.cn), School of Artificial Intelligence at SJTU (上海交通大学人工智能学院). I achieved the Bachelor degree from School of Computer Science at SJTU (上海交通大学计算机学院), and transitioned directly to the current PhD program. My research interests lie in machine learning, especially deep generative models and combinatorial optimization on graphs. Know me more from [**https://heatingma.github.io**](https://heatingma.github.io/).
 
 ## &#x1f4c8; GitHub Stats
 
